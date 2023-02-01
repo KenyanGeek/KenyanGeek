@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KenyanGeek
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning NLP Transformers
+- 🌱 I’m currently learning The Power of Silence
 - 💞️ I’m looking to collaborate on applications of Artificial Intelligence that can scale to at least 1 billion people.
 - 📫 How to reach me chegeherman@gmail.com
 
