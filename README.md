@@ -2,7 +2,7 @@
 - 👀 I’m an expert in Artificial Intelligence
 - 🌱 I’m currently learning The Power of Silence
 - 💞️ I’m looking to invest on applications of Artificial Intelligence that can scale to at least 1 billion people.
-- 💥 I'm General Partner at Renton Invent a $700 million equity firm
+- 💥 I'm General Partner at Renton Invent
 - 📫 How to reach me chegeherman@gmail.com
 
 <!---
